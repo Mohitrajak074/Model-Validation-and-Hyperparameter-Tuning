@@ -249,9 +249,9 @@ Generate graphs for model analysis and performance comparison.
 
 # 🏆 Results
 
-| Model                  | RMSE           | R² Score       |
-| ---------------------- | -------------- | -------------- |
-| Baseline Decision Tree | Add Your Value | Add Your Value |
+| Model                  | RMSE               | R² Score           |
+| ---------------------- | --------------     | --------------     |
+| Baseline Decision Tree | 0.7037294974840077 |  0.622075845135081 |
 | Tuned Decision Tree    | Add Your Value | Add Your Value |
 
 ### Best Model
