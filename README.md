@@ -195,10 +195,10 @@ Generate graphs for model analysis and performance comparison.
 ---
 
 ## Correlation Heatmap
+<img width="1026" height="736" alt="Screenshot 2026-06-04 143442" src="https://github.com/user-attachments/assets/e7933c37-8980-4d36-8c80-45b865690951" />
 
-![Heatmap](screenshots/heatmap.png)
 
----
+
 
 ## Overfitting Analysis
 
