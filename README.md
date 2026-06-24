@@ -239,11 +239,7 @@ Generate graphs for model analysis and performance comparison.
 
 ![Residual Plot](screenshots/residual_plot.png)
 
----
 
-## Validation Curve
-
-![Validation Curve](screenshots/validation_curve.png)
 
 ---
 
