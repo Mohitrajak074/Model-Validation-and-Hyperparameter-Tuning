@@ -214,7 +214,7 @@ Generate graphs for model analysis and performance comparison.
 
 ## Model Comparison (R² Score)
 
-![Model Comparison](screenshots/model_comparison.png)
+<img width="871" height="513" alt="image" src="https://github.com/user-attachments/assets/b0d68ae8-a0de-42cf-af8b-7377ab30c86b" />
 
 ---
 
