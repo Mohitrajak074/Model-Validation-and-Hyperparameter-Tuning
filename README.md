@@ -202,7 +202,7 @@ Generate graphs for model analysis and performance comparison.
 
 ## Overfitting Analysis
 
-![Overfitting Analysis](screenshots/overfitting_analysis.png)
+<img width="812" height="517" alt="image" src="https://github.com/user-attachments/assets/5ce9bf1e-f08a-4060-b487-490b29c34751" />
 
 ---
 
