@@ -208,7 +208,7 @@ Generate graphs for model analysis and performance comparison.
 
 ## Cross-Validation Scores
 
-![Cross Validation](screenshots/cross_validation.png)
+<img width="891" height="531" alt="image" src="https://github.com/user-attachments/assets/5d33c8aa-d022-4e25-9e8f-d1ed53b14123" />
 
 ---
 
