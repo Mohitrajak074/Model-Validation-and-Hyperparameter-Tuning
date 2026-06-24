@@ -188,8 +188,9 @@ Generate graphs for model analysis and performance comparison.
 # 📸 Project Screenshots
 
 ## Dataset Preview
+<img width="940" height="289" alt="Screenshot 2026-06-04 145521" src="https://github.com/user-attachments/assets/0f797784-5627-41c7-8d3d-96cd54550ebd" />
 
-![Dataset Preview](screenshots/dataset_preview.png)
+
 
 ---
 
