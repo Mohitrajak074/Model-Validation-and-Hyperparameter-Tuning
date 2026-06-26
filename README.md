@@ -220,25 +220,25 @@ Generate graphs for model analysis and performance comparison.
 
 ## RMSE Comparison
 
-![RMSE Comparison](screenshots/rmse_comparison.png)
+<img width="888" height="510" alt="image" src="https://github.com/user-attachments/assets/af21c9ed-8e67-4165-b9bc-d28734cf322a" />
 
 ---
 
 ## Actual vs Predicted Values
 
-![Actual vs Predicted](screenshots/actual_vs_predicted.png)
+<img width="732" height="720" alt="image" src="https://github.com/user-attachments/assets/4b5280a4-083b-4f23-a704-af8358a9a583" />
 
 ---
 
 ## Feature Importance
 
-![Feature Importance](screenshots/feature_importance.png)
+<img width="993" height="520" alt="image" src="https://github.com/user-attachments/assets/4a722506-08db-4d45-bcee-7ad514b1a578" />
 
 ---
 
 ## Residual Plot
 
-![Residual Plot](screenshots/residual_plot.png)
+<img width="917" height="551" alt="image" src="https://github.com/user-attachments/assets/1601ab93-6501-42a9-9133-f6700ac325d0" />
 
 
 
