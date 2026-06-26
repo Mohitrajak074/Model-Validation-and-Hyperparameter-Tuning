@@ -282,26 +282,6 @@ House-Price-Prediction-Model-Tuning/
 
 ---
 
-# 🚀 How to Run
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/your-username/House-Price-Prediction-Model-Tuning.git
-```
-
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
 ---
 
 # 🔮 Future Improvements
