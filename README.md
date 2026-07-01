@@ -296,7 +296,7 @@ House-Price-Prediction-Model-Tuning/
 
 # 👨‍💻 Author
 
-**Mohit Rajak**
+***Mohit Rajak***
 B.Tech Computer Science & Engineering
 Artificial Intelligence & Machine Learning Intern
 
