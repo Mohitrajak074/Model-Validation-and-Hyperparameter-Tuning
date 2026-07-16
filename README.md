@@ -249,7 +249,7 @@ Generate graphs for model analysis and performance comparison.
 | Model                  | RMSE               | R² Score            |
 | ---------------------- | --------------     | --------------      |
 | Baseline Decision Tree | 0.7037294974840077 |  0.622075845135081  |
-| Tuned Decision Tree    | 0.6390654005312799 |  0.6883380738855668 |
+| Tuned Decision Tree    | 0.6390654005312799 |  0.6883380738855669 |
 
 ### Best Model
 
